@@ -13,7 +13,7 @@ Honestly i really had fun when making this project backthen😊🧑‍💻
 
 ## Demo
 
-You can view the live demo of the project ([https://your-demo-url.com](https://single-pagessite-honore.netlify.app)).
+You can view the live demo of the project here: https://single-pagessite-honore.netlify.app
 
 ## Technologies Used
 
